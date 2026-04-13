@@ -58,3 +58,5 @@ uv run streamlit run main.py
 * 컨텍스트 유지 검증: 여러 번의 이관이 발생하더라도 이전 대화 내용이 소실되지 않고 모든 에이전트가 전체 맥락을 공유하며 답변하는지 점검합니다.
 
 ## 7. 실행 화면
+
+<img width="1023" height="867" alt="스크린샷 2026-04-13 110949" src="https://github.com/user-attachments/assets/088c2b5a-93f1-4205-84c6-9eab0a883e2d" />
